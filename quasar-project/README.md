@@ -47,4 +47,9 @@ FROM stavke s
 JOIN racuni r ON s.racun = r.id
 WHERE r.id = "id neki";
 
+zavrsni upit
+
+### link
+https://github.com/svalinai/test-is.git
+
 
